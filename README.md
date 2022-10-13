@@ -18,7 +18,7 @@ The transcripts of the 2018 and 2021 Vanity Fair interviews were retrieved using
 See the Python program used to retrieve the transcripts here: https://github.com/gberrien/Billie/blob/main/SRC/FetchTranscript.py
 
 ### Data File:
-<a href="https://github.com/gberrien/Billie/blob/main/DATA/>DATA folder</a>
+<a href="https://github.com/gberrien/Billie/blob/main/DATA/">DATA folder</a>
 
 
 
