@@ -25,7 +25,11 @@ See the Python program used to retrieve the transcripts here: https://github.com
 ### Data Context Narrative:
 
 ## Figures Folder
-### 1. PrelimAnalysisFig1:
+### 1. wordCloud2018VF
+This is a WordCloud made from Billie Eilish's 2018 Vanity Fair Interview. Some words that lack sentiment (names, pronouns, conjunctions, etc.) were discluded. This figure gives a broad overview of the commonly used words spoken by Billie as an initial sentiment analysis. 
+
+### 2. wordCloud2021VF
+This is a WordCloud made from Billie Eilish's 2021 Vanity Fair Interview. Some words that lack sentiment (names, pronouns, conjunctions, etc.) were discluded. This figure gives a broad overview of the commonly used words spoken by Billie as an initial sentiment analysis. 
 
 ## References
 
