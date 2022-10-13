@@ -17,6 +17,8 @@ The transcripts of the 2018 and 2021 Vanity Fair interviews were retrieved using
 
 See the Python program used to retrieve the transcripts here: https://github.com/gberrien/Billie/blob/main/SRC/FetchTranscript.py
 
+The songs from both albums were downloaded from a python command run by the command prompt, following the instructions given on this site (https://github.com/johnwmillr/LyricsGenius). Song titles were manually entered into the command prompt program, as our computers kept timing out on full album requests. A Genius API CLient ID is necessary to run this code. Once downloaded, a separate python file was used to move the Genius song data to Excel to manually clean it more easily. Once cleaed, the data was moved to txt files to be uploaded onto Github. 
+
 ### Data File:
 <a href="https://github.com/gberrien/Billie/blob/main/DATA/">DATA folder</a>
 
