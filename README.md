@@ -69,6 +69,12 @@ This is a WordCloud made from Billie Eilish's 2018 Vanity Fair Interview. Some w
 ### 2. wordCloud2021VF
 This is a WordCloud made from Billie Eilish's 2021 Vanity Fair Interview. Some words that lack sentiment (names, pronouns, conjunctions, etc.) were discluded. This figure gives a broad overview of the commonly used words spoken by Billie as an initial sentiment analysis. 
 
+### 3. WhenWeFallAsleepWhereDoWeGo_wordcloud
+This is a WordCloud made from Billie Eilish's song When We Fall Asleep Where Do We go from her debut Album. Some words that lack sentiment (names, pronouns, conjunctions, etc.) were discluded. This gives a general impression of the lyric make-up of Billie's early career song as an initial sentiment analysis. 
+
+### 4. HappierThanEver_wordcloud
+This is a word cloud made from Billie Eilish's song Happier Than Ever from her sophomore album. Some words that lack sentiment (names, pronouns, conjunctions, etc.) were discluded. This gives a general impression of the lyric make-up of Billie's songs later in her career as an initial sentiment analysis. 
+
 ## References: TO FINISH ONCE ALL SOURCES ARE IN
 https://www.youtube.com/watch?v=Z6nkEZyS9nA </br>
 https://www.tutorialspoint.com/create-word-cloud-using-python </br>
