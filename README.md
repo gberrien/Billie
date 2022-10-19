@@ -68,6 +68,10 @@ This is a WordCloud made from Billie Eilish's 2021 Vanity Fair Interview. Some w
 
 ## References
 
+#### M1 Assignment
+
+#### M2 Assignment
+
 ### Prepatory Assignments: 
 
 ### Acknowledgements: 
