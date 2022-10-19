@@ -75,7 +75,9 @@ https://www.tutorialspoint.com/create-word-cloud-using-python </br>
 https://github.com/johnwmillr/LyricsGenius </br>
 https://www.rollingstone.com/music/music-features/billie-eilish-new-album-happier-than-ever-tour-1183156/ </br>
 https://headlinermagazine.net/billie-eilish-happier-than-ever-bedroom-production-reaches-new-heights.html. </br>
-https://stackoverflow.com/questions/13613336/how-do-i-concatenate-text-files-in-python 
+https://stackoverflow.com/questions/13613336/how-do-i-concatenate-text-files-in-python </br>
+https://www.youtube.com/watch?v=_wNsZEqpKUA </br>
+https://www.youtube.com/watch?v=Cm0MGnuRnH0
 
 ### Prepatory Assignments: 
 
