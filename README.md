@@ -69,15 +69,18 @@ This is a WordCloud made from Billie Eilish's 2018 Vanity Fair Interview. Some w
 ### 2. wordCloud2021VF
 This is a WordCloud made from Billie Eilish's 2021 Vanity Fair Interview. Some words that lack sentiment (names, pronouns, conjunctions, etc.) were discluded. This figure gives a broad overview of the commonly used words spoken by Billie as an initial sentiment analysis. 
 
-## References
-
-#### M1 Assignment
-
-#### M2 Assignment
+## References: TO FINISH ONCE ALL SOURCES ARE IN
+https://www.youtube.com/watch?v=Z6nkEZyS9nA
+https://www.tutorialspoint.com/create-word-cloud-using-python
+https://github.com/johnwmillr/LyricsGenius
+https://www.rollingstone.com/music/music-features/billie-eilish-new-album-happier-than-ever-tour-1183156/
+https://headlinermagazine.net/billie-eilish-happier-than-ever-bedroom-production-reaches-new-heights.html.
+https://stackoverflow.com/questions/13613336/how-do-i-concatenate-text-files-in-python 
 
 ### Prepatory Assignments: 
 
 ### Acknowledgements: 
+Thanks to Professor Alonzi for his guidance, wisdom, and inspiration and thanks to Harsh for his expertise each step of the way. And shoutout Billie Eilish for her wonderful music and interviews. 
 
-### References: 
+
 
