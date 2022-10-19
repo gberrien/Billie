@@ -81,6 +81,7 @@ https://www.youtube.com/watch?v=Cm0MGnuRnH0
 
 ### Prepatory Assignments: 
 <a href="https://docs.google.com/document/d/1rruddvRWK4BdKiVESKXcHqCWTFNkUCupiCY6W-lsPfM/edit?usp=sharing">M2: Establish Data</a> <br>
+<a href="https://docs.google.com/document/d/1bkknP33MFT9XR1ovv4hFG8CekbWAAWRUouEA8Xdc-iU/edit?usp=sharing">M1: Hypothesis</a> 
 
 
 ### Acknowledgements: 
