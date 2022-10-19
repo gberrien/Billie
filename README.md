@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=_wNsZEqpKUA </br>
 https://www.youtube.com/watch?v=Cm0MGnuRnH0
 
 ### Prepatory Assignments: 
-<a href="https://docs.google.com/document/d/1rruddvRWK4BdKiVESKXcHqCWTFNkUCupiCY6W-lsPfM/edit?usp=sharing">M1: Hypothesis</a> <br>
+<a href="https://docs.google.com/document/d/1rruddvRWK4BdKiVESKXcHqCWTFNkUCupiCY6W-lsPfM/edit?usp=sharing">M2: Establish Data</a> <br>
 
 
 ### Acknowledgements: 
