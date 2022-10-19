@@ -7,6 +7,12 @@ Billie Eilish Sentiment Analysis
 
 ## SRC Folder
 ### Installing/Building Code:
+##### FetchTranscript.py:
+This python file can be downloaded and imported into any Python compatible IDE. PyCharm was used for this project. The youtube_transript_api module also has to be installed on your local machine to run this program. It is recommended to install this module using pip with the following command: *pip install youtube_transcript_api*
+Once the module is installed the entire Python file can be run at once. 
+
+#####
+
 
 ### Using Code:
 
