@@ -23,11 +23,23 @@ This python file can be downloaded and imported into any Python compatible IDE. 
 
 *pip install Pillow*
 
-The Vanity Fair transcripts also have to be downloaded. These can be found in the Data Folder of this repository. 
+The Vanity Fair transcripts and cloud.png also have to be downloaded. These can be found in the Data Folder of this repository. A
+
+#### SongLyrics.py
+Grace to add directions
 
 
 
 ### Using Code:
+
+#### FetchTranscript.py:
+With the proper modules installed this Python file can be ran all at once. It will result in a txt file being created in the same directory as the Python file. 
+
+#### WordCloud_Transcripts.py
+With the proper modules installed this Python file can be ran all at once. It will result in a Word Cloud png file being created in the same directory as the Python file. 
+
+#### SongLyrics.py
+Grace to add directions. 
 
 ## DATA Folder
 ### Data Collection Process:
