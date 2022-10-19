@@ -23,13 +23,10 @@ This python file can be downloaded and imported into any Python compatible IDE. 
 
 *pip install wordcloud*
 
-*pip install numpy*
-
-*python -m pip install -U matplotlib*
-
-*pip install Pillow*
-
-The Vanity Fair transcripts and cloud.png also have to be downloaded. These can be found in the Data Folder of this repository. 
+*pip install numpy* </br>
+*python -m pip install -U matplotlib* </br>
+*pip install Pillow* </br>
+The Vanity Fair transcripts and cloud.png also have to be downloaded. These can be found in the Data Folder of this repository. </br>
 
 #### SongLyrics.py
 Grace to add directions
