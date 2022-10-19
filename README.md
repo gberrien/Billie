@@ -19,7 +19,7 @@ This python file can be downloaded and imported into any Python compatible IDE. 
 It is recommended to install this module using pip with the following command: *pip install youtube_transcript_api* 
 
 #### WordCloud_Transcripts.py
-This python file can be downloaded and imported into any Python compatible IDE. PyCharm was used for this project. The matplotlib.pyplot, wordcloud, numPy, Pillow modules also have to be installed on your local machine to run this program. It is recommended to install these modules using pip with the folowwing commands:
+This python file can be downloaded and imported into any Python compatible IDE. PyCharm was used for this project. The matplotlib.pyplot, wordcloud, numPy, Pillow modules also have to be installed on your local machine to run this program. It is recommended to install these modules using pip with the following commands:
 
 *pip install wordcloud*</br>
 *pip install numpy* </br>
