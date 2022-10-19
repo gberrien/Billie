@@ -91,7 +91,8 @@ https://www.rollingstone.com/music/music-features/billie-eilish-new-album-happie
 https://headlinermagazine.net/billie-eilish-happier-than-ever-bedroom-production-reaches-new-heights.html. </br>
 https://stackoverflow.com/questions/13613336/how-do-i-concatenate-text-files-in-python </br>
 https://www.youtube.com/watch?v=_wNsZEqpKUA </br>
-https://www.youtube.com/watch?v=Cm0MGnuRnH0
+https://www.youtube.com/watch?v=Cm0MGnuRnH0 </br>
+https://www.analyticsvidhya.com/blog/2021/06/vader-for-sentiment-analysis/ </br>
 
 ### Prepatory Assignments: 
 <a href="https://docs.google.com/document/d/1bkknP33MFT9XR1ovv4hFG8CekbWAAWRUouEA8Xdc-iU/edit?usp=sharing">M1: Hypothesis</a> <br>
