@@ -10,6 +10,7 @@ This Repository contains three main folders and two additional files.
 - This README.md file serves as an orientation to this repository. 
 
 ## Hypothesis
+We expect to observe similar sentiments between Billie Eilish’s 2018 Vanity Fair interview and her debut album as well as between her 2021 Vanity Fair interview and her sophomore album, with the 2021 album and interview displaying more positive sentiments than the 2018 album and interview.
 
 ## SRC Folder
 ### Installing/Building Code:
