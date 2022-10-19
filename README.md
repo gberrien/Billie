@@ -30,7 +30,7 @@ This python file can be downloaded and imported into any Python compatible IDE. 
 
 *pip install Pillow*
 
-The Vanity Fair transcripts and cloud.png also have to be downloaded. These can be found in the Data Folder of this repository. A
+The Vanity Fair transcripts and cloud.png also have to be downloaded. These can be found in the Data Folder of this repository. 
 
 #### SongLyrics.py
 Grace to add directions
