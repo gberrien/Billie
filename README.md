@@ -82,6 +82,7 @@ https://www.youtube.com/watch?v=Cm0MGnuRnH0
 ### Prepatory Assignments: 
 <a href="https://docs.google.com/document/d/1rruddvRWK4BdKiVESKXcHqCWTFNkUCupiCY6W-lsPfM/edit?usp=sharing">M1: Hypothesis</a> <br>
 
+
 ### Acknowledgements: 
 Thanks to Professor Alonzi for his guidance, wisdom, and inspiration and thanks to Harsh for his expertise each step of the way. And shoutout Billie Eilish for her wonderful music and interviews. 
 
