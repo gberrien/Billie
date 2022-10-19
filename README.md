@@ -94,15 +94,15 @@ https://www.youtube.com/watch?v=_wNsZEqpKUA </br>
 https://www.youtube.com/watch?v=Cm0MGnuRnH0 </br>
 https://www.analyticsvidhya.com/blog/2021/06/vader-for-sentiment-analysis/ </br>
 
-A. Bajaj, “Vader sentiment analysis: NLP sentiment analysis using Vader,” Analytics Vidhya, 23-Aug-2022. [Online]. Available: https://www.analyticsvidhya.com/blog/2021/06/vader-for-sentiment-analysis/. [Accessed: 19-Oct-2022]. <br>
-A. Gustafson, “Billie Eilish's happier than ever: Bedroom production reaches New Heights,” Headliner Magazine. [Online]. Available: https://headlinermagazine.net/billie-eilish-happier-than-ever-bedroom-production-reaches-new-heights.html. [Accessed: 19-Oct-2022]. <br>
-B. Spanos, “Billie Eilish and the pursuit of happiness,” Rolling Stone, 27-Jun-2021. [Online]. Available: https://www.rollingstone.com/music/music-features/billie-eilish-new-album-happier-than-ever-tour-1183156/. [Accessed: 19-Oct-2022]. <br>
-Billie Eilish: Same Interview, One Year Apart | Vanity Fair. YouTube, 2018. <br>
-Billie Eilish: Same Interview, The Fifth Year | Vanity Fair. YouTube, 2021. <br>
-How to get the transcript of a YouTube video. YouTube, 2021. <br>
-J. Miller, “Johnwmillr/Lyricsgenius: Download song lyrics and metadata from genius.com 🎶🎤,” GitHub, 2020. [Online]. Available: https://github.com/johnwmillr/LyricsGenius. [Accessed: 19-Oct-2022]. <br>
-JJ Beck, “How do I concatenate text files in python?,” Stack Overflow, 01-Mar-1960. [Online]. Available: https://stackoverflow.com/questions/13613336/how-do-i-concatenate-text-files-in-python. [Accessed: 19-Oct-2022]. <br>
-K. Boyini, “Create word cloud using Python,” Tutorials Point, 30-Jul-2019. [Online]. Available: https://www.tutorialspoint.com/create-word-cloud-using-python. [Accessed: 19-Oct-2022]. <br>
+A. Bajaj, “Vader sentiment analysis: NLP sentiment analysis using Vader,” Analytics Vidhya, 23-Aug-2022. [Online]. Available: https://www.analyticsvidhya.com/blog/2021/06/vader-for-sentiment-analysis/. [Accessed: 19-Oct-2022]. <br><br>
+A. Gustafson, “Billie Eilish's happier than ever: Bedroom production reaches New Heights,” Headliner Magazine. [Online]. Available: https://headlinermagazine.net/billie-eilish-happier-than-ever-bedroom-production-reaches-new-heights.html. [Accessed: 19-Oct-2022]. <br><br>
+B. Spanos, “Billie Eilish and the pursuit of happiness,” Rolling Stone, 27-Jun-2021. [Online]. Available: https://www.rollingstone.com/music/music-features/billie-eilish-new-album-happier-than-ever-tour-1183156/. [Accessed: 19-Oct-2022]. <br><br>
+Billie Eilish: Same Interview, One Year Apart | Vanity Fair. YouTube, 2018. <br><br>
+Billie Eilish: Same Interview, The Fifth Year | Vanity Fair. YouTube, 2021. <br><br>
+How to get the transcript of a YouTube video. YouTube, 2021. <br><br>
+J. Miller, “Johnwmillr/Lyricsgenius: Download song lyrics and metadata from genius.com 🎶🎤,” GitHub, 2020. [Online]. Available: https://github.com/johnwmillr/LyricsGenius. [Accessed: 19-Oct-2022]. <br><br>
+JJ Beck, “How do I concatenate text files in python?,” Stack Overflow, 01-Mar-1960. [Online]. Available: https://stackoverflow.com/questions/13613336/how-do-i-concatenate-text-files-in-python. [Accessed: 19-Oct-2022]. <br><br>
+K. Boyini, “Create word cloud using Python,” Tutorials Point, 30-Jul-2019. [Online]. Available: https://www.tutorialspoint.com/create-word-cloud-using-python. [Accessed: 19-Oct-2022]. <br><br>
 Simple Sentiment Text Analysis in Python. YouTube, 2020. 
 
 ### Prepatory Assignments: 
