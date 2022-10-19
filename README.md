@@ -29,6 +29,14 @@ This python file can be downloaded and imported into any Python compatible IDE. 
 
 The Vanity Fair transcripts and cloud.png also have to be downloaded. These can be found in the Data Folder of this repository. </br>
 
+#### test_articles.py
+This python file can be downloaded and imported into any Python compatible IDE. PyCharm was used for this project. The textblob, SentimentIntensityAnalyzer, nltk, and article modeules also have to be installed on your local machine to run this program.  It is recommended to install these modules using pip with the following commands:
+
+*pip install nltk*</br>
+*pip install textblob* </br>
+*pip install article* 
+
+
 #### SongLyrics.py
 Grace to add directions
 
@@ -41,6 +49,9 @@ With the proper modules installed this Python file can be ran all at once. It wi
 
 #### WordCloud_Transcripts.py
 With the proper modules installed this Python file can be ran all at once. It will result in a Word Cloud png file being created in the same directory as the Python file. Stop words can be added and deleted. The file from which the WordCloud is built from can also be changed when creating the **dataset** variable as seen on line 29 of the original Python file. 
+
+#### test_articles.py
+With proper modules installed this Python file can be ran all at once. Using the url of an online article, the article is downloaded as a text file. The outcome of the code will break down the overall sentiment into three percentages that all equate to 100%, one postive, one negative, and one neutral, and then states whether the overall sentiment of the text is positive or negative. 
 
 #### SongLyrics.py
 Grace to add directions. 
