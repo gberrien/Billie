@@ -39,7 +39,7 @@ Grace to add directions
 With the proper modules installed this Python file can be ran all at once. It will result in a txt file being created in the same directory as the Python file. 
 
 #### WordCloud_Transcripts.py
-With the proper modules installed this Python file can be ran all at once. It will result in a Word Cloud png file being created in the same directory as the Python file. 
+With the proper modules installed this Python file can be ran all at once. It will result in a Word Cloud png file being created in the same directory as the Python file. Stop words can be added and deleted. The file from which the WordCloud is built from can also be changed when creating the *dataset* variable as seen on line 29 of the original Python file. 
 
 #### SongLyrics.py
 Grace to add directions. 
