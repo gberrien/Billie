@@ -1,5 +1,4 @@
-# Billie
-Billie Eilish Sentiment Analysis
+# Billie Eilish Sentiment Analysis
 
 ## Contents
 
