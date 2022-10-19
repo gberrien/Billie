@@ -16,8 +16,11 @@ It is recommended to install this module using pip with the following command: *
 This python file can be downloaded and imported into any Python compatible IDE. PyCharm was used for this project. The matplotlib.pyplot, wordcloud, numPy, Pillow modules also have to be installed on your local machine to run this program. It is recommended to install these modules using pip with the folowwing commands:
 
 *pip install wordcloud*
+
 *pip install numpy*
+
 *python -m pip install -U matplotlib*
+
 *pip install Pillow*
 
 The Vanity Fair transcripts also have to be downloaded. These can be found in the Data Folder of this repository. 
