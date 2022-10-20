@@ -40,6 +40,8 @@ This python file can be downloaded and imported into any Python compatible IDE. 
 #### SongLyrics.py
 Grace to add directions
 
+#### Vader Analysis.py
+Grace to add directions
 
 
 ### Using Code:
@@ -54,6 +56,9 @@ With the proper modules installed this Python file can be ran all at once. It wi
 With proper modules installed this Python file can be ran all at once. Using the url of an online article, the article is downloaded as a text file. The outcome of the code will break down the overall sentiment into three percentages that all equate to 100%, one postive, one negative, and one neutral, and then states whether the overall sentiment of the text is positive or negative. 
 
 #### SongLyrics.py
+Grace to add directions.
+
+#### Vader Analysis.py
 Grace to add directions. 
 
 ## DATA Folder
@@ -89,6 +94,12 @@ This is a WordCloud made from Billie Eilish's song When We Fall Asleep Where Do 
 
 ### 4. HappierThanEver_wordcloud
 This is a word cloud made from Billie Eilish's song Happier Than Ever from her sophomore album. Some words that lack sentiment (names, pronouns, conjunctions, etc.) were discluded. This gives a general impression of the lyric make-up of Billie's songs later in her career as an initial sentiment analysis. 
+
+### 5. image.png
+This is a histogram displaying the net positive sentiment of each song on Billie's album "When We Fall Asleep, Where Do We Go?" The histogram notes two lines. The dotted line represents the median net positive sentiment, found by measuring the sentiment of each song on the album individually. The solid line represents the total album net positive sentiment, which we found by measuring the sentiment of the entire album's lyrics all at once (i.e. all songs from the album combined into one set and measured).
+
+### 6. image.png
+This is a histogram displaying the net positive sentiment of each song on Billie's album "Happier Than Ever?" The histogram notes two lines. The dotted line represents the median net positive sentiment, found by measuring the sentiment of each song on the album individually. The solid line represents the total album net positive sentiment, which we found by measuring the sentiment of the entire album's lyrics all at once (i.e. all songs from the album combined into one set and measured).
 
 ## References:
 
