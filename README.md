@@ -38,11 +38,14 @@ This python file can be downloaded and imported into any Python compatible IDE. 
 
 
 #### SongLyrics.py
-Grace to add directions
+This python file can be downloaded and imported into any Python compatible IDE. Jupyter Notebook was used for this project. 
+
+*pip install PyLyrics*</br> 
 
 #### Vader Analysis.py
-Grace to add directions
+This python file can be downloaded and imported into any Python compatible IDE. Jupyter Notebook was used for this project. It is recommended to install these modules using pip with the following commands:
 
+*pip install vaderSentiment*</br> 
 
 ### Using Code:
 
@@ -56,10 +59,10 @@ With the proper modules installed this Python file can be ran all at once. It wi
 With proper modules installed this Python file can be ran all at once. Using the url of an online article, the article is downloaded as a text file. The outcome of the code will break down the overall sentiment into three percentages that all equate to 100%, one postive, one negative, and one neutral, and then states whether the overall sentiment of the text is positive or negative. 
 
 #### SongLyrics.py
-Grace to add directions.
+Song titles were downloaded onto the computer using PyLyrics. The file titles for each song were then manually inputted into the Python file and then transferred over to Excel. We did most of the cleaning up in Excel because of the complicated characters included in the downloaded lyrics that had to be deleted and parsed through.
 
 #### Vader Analysis.py
-Grace to add directions. 
+The sentiment_score function is the primary driver of this model and outputs the net positive sentiment for the desired input (positive sentiment minus negative sentiment) [1]. Once each text set is inputted, the user can use this function to generate sentiment for each text. This can function was run on individual songs on each album (one at a time), total albums (all songs put through in one single chunk), and each Vanity Fair interview. Histograms were created using matplotlib [11]. 
 
 ## DATA Folder
 ### Data Collection Process:
@@ -113,6 +116,7 @@ This is a histogram displaying the net positive sentiment of each song on Billie
 [8] JJ Beck, “How do I concatenate text files in python?,” Stack Overflow, 01-Mar-1960. [Online]. Available: https://stackoverflow.com/questions/13613336/how-do-i-concatenate-text-files-in-python. [Accessed: 19-Oct-2022]. <br><br>
 [9] K. Boyini, “Create word cloud using Python,” Tutorials Point, 30-Jul-2019. [Online]. Available: https://www.tutorialspoint.com/create-word-cloud-using-python. [Accessed: 19-Oct-2022]. <br><br>
 [10] Simple Sentiment Text Analysis in Python. YouTube, 2020. 
+[11] User308827, “Drawing average line in histogram (matplotlib)” Stack Overflow, 24-Oct-2018. [Online]. Available: https://stackoverflow.com/questions/16180946/drawing-average-line-in-histogram-matplotlib. [Accessed: 19-Oct-2022]. <br><br>
 
 ### Prepatory Assignments: 
 <a href="https://docs.google.com/document/d/1bkknP33MFT9XR1ovv4hFG8CekbWAAWRUouEA8Xdc-iU/edit?usp=sharing">M1: Hypothesis</a> <br>
